@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.github.jhipster.registry.security.jwt.JWTFilterTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.23 s - in io.github.jhipster.registry.security.jwt.JWTFilterTest
